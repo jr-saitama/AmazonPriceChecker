@@ -10,3 +10,7 @@
 *from third line onwards you can add as many _urls_ you like but should be in line by line
 
 *To get the _urls_ just search the product in **amazon** then copy and paste the _url_ to **urls.txt** file
+
+---
+You can use _task schedular_ to run the programm automatically , you just have to add **urls** of products you like
+---
