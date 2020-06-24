@@ -2,7 +2,7 @@
 ---
 > Just create a "**urls.txt**" file in the path where you will run this python code or exe.
 ---
-### **urls.txt** should be in the format :
+### "**urls.txt**" should be in the format as below :
 *first line should contain the [user-agent](https://www.whatismybrowser.com/detect/what-is-my-user-agent)    	
 
 *second line should be the _email address_ to which you wish to recieve the prices
