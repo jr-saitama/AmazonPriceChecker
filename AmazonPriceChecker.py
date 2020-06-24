@@ -72,7 +72,7 @@ def get_data():
 
         msg = f"Subject:{subject}\n\n{body}"
 
-        server.sendmail("myfirstcompanyinengineering@gmail.com", "tejastejumanoj@gmail.com",msg)
+        server.sendmail("myfirstcompanyinengineering@gmail.com", "naveenkumarburugupally@gmail.com",msg)
 
         print('email is sent')
 
