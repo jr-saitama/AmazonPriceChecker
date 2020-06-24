@@ -11,6 +11,7 @@
 
 *To get the _urls_ just search the product in **amazon** then copy and paste the _url_ to **urls.txt** file
 
----
-You can use _task schedular_ to run the programm automatically , you just have to add **urls** of products you like
+
+>You can use _task schedular_ to run the program automatically , you just have to add **urls** of products you like
+
 ---
