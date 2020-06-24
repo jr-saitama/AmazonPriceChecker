@@ -1,4 +1,4 @@
-# search "user-agent" in your prefered browser, copoy that and paste it in place of this. 
+# search "my user-agent" in your preferred browser, copy and paste that in place of this. 
 https://www.amazon.in/HP-Pentium-14-inch-Windows-14q-cs0018TU/dp/B07THRK915/
 https://www.amazon.in/ZOTAC-Gaming-GeForce-2060-Mini/dp/B07QC8RSZB/
 https://www.amazon.in/GeForce-GTX-1660-OC-Gv-N166SOC-6GD/dp/B07ZPM2BVR/
